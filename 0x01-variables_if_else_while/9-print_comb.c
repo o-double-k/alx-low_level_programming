@@ -22,10 +22,5 @@ putchar(32);
 i++;
 }
 putchar('\n');
-
-
-
-
-  return (0);
-
+return (0);
 }
