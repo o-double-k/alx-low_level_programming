@@ -7,11 +7,11 @@
  * Description: Print statements based on the last digit of the random number.
  * Return: 0
  */
-int main(void)  
+int main(void)
 {
-int n; 
+int n;
 int m;
-srand(time(0));  
+srand(time(0));
 n = rand() - RAND_MAX / 2;
 m = n % 10;
 if (m > 5)
