@@ -1,2 +1,1 @@
-Functions and loops
-Test  
+Pointers and etc
